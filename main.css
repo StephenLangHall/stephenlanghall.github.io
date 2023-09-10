@@ -4,12 +4,12 @@
     --width: 350px;
     --font: 'Courier Prime';
     --font-scale: 1.2em;
-    --background-color: #262321; /* #292929; */
-    --heading-color: #ffffff;
+    --background-color: #212121; /* #292929; */
+    --heading-color: #c84c33;
     --text-color: #ffffff;
-    --link-color: #ff6e26;
-    --visited-color: #8a360c;
-    --code-background-color: #12100f; /* #242424; */
+    --link-color: #f1bf8e;
+    --visited-color: #c84c33;
+    --code-background-color: #545454; /* #242424; */
     --code-color: #ffffff;
     --blockquote-color: #ffffff;
 }
