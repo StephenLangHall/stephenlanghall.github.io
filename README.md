@@ -1,4 +1,3 @@
-# [RAÍZ](https://stephenlanghall.github.io/raiz/)
+# [StephenLangHall.github.io](https://stephenlanghall.github.io/)
 
-Raíz is my minimal website.  
-I might use it as a blog.  
+My portfolio
