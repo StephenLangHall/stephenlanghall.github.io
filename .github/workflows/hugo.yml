@@ -40,7 +40,7 @@ jobs:
       - name: Install Dart Sass
         run: sudo snap install dart-sass
       - name: Install PostCSS
-        run: sudo apt install node-postcss node-postcss-cli
+        run: sudo npm install postcss
       - name: Checkout
         uses: actions/checkout@v4
         with:
