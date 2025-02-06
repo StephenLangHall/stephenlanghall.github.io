@@ -16,9 +16,9 @@ tags = "tags"
 categories = "categories"
 
 [params]
-title="TeXify3"
-author = "Michael Neuper"
-description = "TeXify3 - A LaTeX-style hugo theme with the gruvbox color scheme for personal blogging"
+title="Stephen Hall"
+author = "Stephen Hall"
+description = "Porfolio of Stephen Hall"
 footnote = """
 Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
 Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
@@ -30,7 +30,7 @@ emphasisWithDots = true
 toc = true
 rootFontSize = "105%"
 math = true
-enableDuckDuckGoSearchBox = false
+enableDuckDuckGoSearchBox = true
 numberedSubtitles = true
 
   [params.commentEngine]
@@ -70,11 +70,11 @@ numberedSubtitles = true
   """
 
   [params.sharingbuttons]
-  facebook = true
-  twitter = true
-  email = true
-  linkedin = true
-  reddit = true
-  whatsapp = true
-  hackernews = true
-  telegram = true
+  facebook = false
+  twitter = false
+  email = false
+  linkedin = false
+  reddit = false
+  whatsapp = false
+  hackernews = false
+  telegram = false
