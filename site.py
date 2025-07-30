@@ -14,5 +14,3 @@ title = "Site Title"
 
 # Site tagline.
 tagline = "Just another Ark site."
-
-out_dir = "docs"
