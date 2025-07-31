@@ -10,7 +10,7 @@
 theme = "graphite"
 
 # Site title.
-title = "Site Title"
+title = "Stephen Hall"
 
 # Site tagline.
-tagline = "Just another Ark site."
+tagline = "Too many ideas to build, too little time to build them."
