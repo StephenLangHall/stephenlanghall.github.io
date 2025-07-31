@@ -14,3 +14,5 @@ title = "Stephen Hall"
 
 # Site tagline.
 tagline = "So many ideas to build,<br>so little time to build them."
+
+profileimg = "/img/sand.jpg"
