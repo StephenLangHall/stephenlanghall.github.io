@@ -13,4 +13,4 @@ theme = "graphite"
 title = "Stephen Hall"
 
 # Site tagline.
-tagline = "Too many ideas to build, too little time to build them."
+tagline = "So many ideas to build,<br>so little time to build them."
